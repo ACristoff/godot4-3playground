@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://byiqhusxlsvxx"
+path="res://.godot/imported/Wormo Enters Monster.wav-3a1c3ccc9b2edb5b32f08faf4f241c23.sample"
+
+[deps]
+
+source_file="res://assets/sfx/TEST PROJECT/Assets/Wormo Enters Monster.wav"
+dest_files=["res://.godot/imported/Wormo Enters Monster.wav-3a1c3ccc9b2edb5b32f08faf4f241c23.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

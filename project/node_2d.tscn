@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://dyb4jsa76t8id"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="FmodBankLoader" type="FmodBankLoader" parent="."]
+bank_paths = ["res://assets/sfx/TEST PROJECT/Build/Desktop/Master.bank"]
+
+[node name="FmodListener2D" type="FmodListener2D" parent="FmodBankLoader"]
+
+[node name="FmodEventEmitter2D" type="FmodEventEmitter2D" parent="FmodBankLoader"]
+event_name = "event:/Music/song track"
+event_guid = "{493d38d7-84b5-4a75-81a4-8805766db13b}"
+autoplay = true
+event_parameter/Combat/id = 8098848261645593876
+event_parameter/Combat/value = 1.0
+event_parameter/Combat/min_value = 0.0
+event_parameter/Combat/max_value = 1.0
+event_parameter/Combat/default_value = 0.0
+event_parameter/Combat/variant_type = 3

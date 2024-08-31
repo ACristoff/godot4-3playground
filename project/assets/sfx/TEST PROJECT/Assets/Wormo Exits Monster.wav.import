@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c1ac1n4wi2v05"
+path="res://.godot/imported/Wormo Exits Monster.wav-6602a8fa40d9f17c7ad44c5e6b13ce36.sample"
+
+[deps]
+
+source_file="res://assets/sfx/TEST PROJECT/Assets/Wormo Exits Monster.wav"
+dest_files=["res://.godot/imported/Wormo Exits Monster.wav-6602a8fa40d9f17c7ad44c5e6b13ce36.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
