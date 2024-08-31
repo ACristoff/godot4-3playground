@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{c71e51cc-3adc-44dc-a091-b866a31831e4}">
+		<property name="name">
+			<value>mute</value>
+		</property>
+		<relationship name="folder">
+			<destination>{208b81ef-5920-4260-a0ad-fb78686129e5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7ad0d6da-f44a-472b-8342-2a88fe88b04d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7ad0d6da-f44a-472b-8342-2a88fe88b04d}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="minimum">
+			<value>-100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="velocity">
+			<value>14</value>
+		</property>
+	</object>
+</objects>
