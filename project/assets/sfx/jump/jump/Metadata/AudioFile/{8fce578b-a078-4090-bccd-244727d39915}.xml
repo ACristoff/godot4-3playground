@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8fce578b-a078-4090-bccd-244727d39915}">
+		<property name="assetPath">
+			<value>Wormo Exits Monster.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.33937499999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cdf2f851-1181-42de-96dd-0a46576c3a6c}</destination>
+		</relationship>
+	</object>
+</objects>
