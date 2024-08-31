@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="Bank" id="{e5d9c6b6-bd86-4ea7-825b-1f845faae25b}">
+	<object class="EventFolder" id="{6e56b00d-e521-4794-8d79-aaee4e303ba7}">
 		<property name="name">
-			<value>Jump</value>
+			<value>SFX</value>
 		</property>
 		<relationship name="folder">
-			<destination>{7456ac87-6918-45cc-8da6-012a827d927b}</destination>
+			<destination>{e48b1d4a-c0a7-47e6-8055-5552bf3fa2bb}</destination>
 		</relationship>
 	</object>
 </objects>
